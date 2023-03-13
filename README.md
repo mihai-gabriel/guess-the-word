@@ -4,6 +4,6 @@ Guessing game where you have been provided with a word containing _partially hid
 
 ### Live Demo URL: https://guess-word-mihai.netlify.app/
 
-![Screenshot](https://i.imgur.com/RmefjnB.png)
+![Screenshot](https://i.imgur.com/we0bTfp.png)
 
 > Note: Needs refactoring / Layout not responsive yet
