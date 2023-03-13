@@ -185,7 +185,6 @@
   }
 
   ul.guessed {
-    border-bottom: 2px solid #000;
     -webkit-mask-image: linear-gradient(
       0deg,
       rgba(255, 255, 255, 0) 0%,
@@ -194,9 +193,9 @@
     );
     mask-image: linear-gradient(
       0deg,
-      rgba(0, 0, 0, 1) 0%,
+      rgba(255, 255, 255, 0) 0%,
       rgba(255, 255, 255, 0.6) 40%,
-      rgba(255, 255, 255, 0) 100%
+      rgba(0, 0, 0, 1) 100%
     );
   }
 
